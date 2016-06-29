@@ -15,6 +15,7 @@
     self = [super init];
     if (self) {
         self.backgroundColor = [UIColor yellowColor];
+        // prjc2 xxxx
     }
     return self;
 }
