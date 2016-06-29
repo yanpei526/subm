@@ -10,4 +10,5 @@
 
 @interface YPCommonView : UIView
 
+- (void)test;
 @end

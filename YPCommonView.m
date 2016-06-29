@@ -23,4 +23,9 @@
     return self;
 }
 
+- (void)test
+{
+    NSLog(@"test abc");
+}
+
 @end
