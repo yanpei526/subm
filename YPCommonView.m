@@ -14,7 +14,7 @@
 {
     self = [super init];
     if (self) {
-        self.backgroundColor = [UIColor blueColor];
+        self.backgroundColor = [UIColor yellowColor];
     }
     return self;
 }
