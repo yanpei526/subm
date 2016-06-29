@@ -16,6 +16,7 @@
     if (self) {
         self.backgroundColor = [UIColor yellowColor];
         // prjc2 xxxx
+        // prjc yyyyyy
     }
     return self;
 }
